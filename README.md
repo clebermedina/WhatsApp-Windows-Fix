@@ -3,7 +3,7 @@
 
 ### How it works / Como funciona
 
-|----|-------|
+
 | WhatsApp Store version freezes → RuntimeBroker eats all CPU/RAM | WhatsApp da Microsoft Store trava → RuntimeBroker consome tudo |
 | Hidden service checks every 6 seconds | Serviço oculto verifica a cada 6 segundos |
 | If WhatsApp.exe is running → safely kills RuntimeBroker | Se o WhatsApp.exe estiver aberto → mata o RuntimeBroker com segurança |
